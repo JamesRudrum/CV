@@ -1,6 +1,6 @@
 ## James Rudrum
 
-I'm a former 3D designer who has (hopefully) learnt to code at Makers Academy. I've worked on blockbuster films and installations for Microsoft in the past but now I want to use my problem solving skills to make stuff and expand on my engineering and tech background.
+I'm a former 3D designer who has (hopefully) learnt to code at Makers Academy. I've worked on blockbuster films and installations in the past but now I want to use my problem solving skills to make stuff and expand on my engineering and tech background.
 
 ## Skills
 
@@ -48,6 +48,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Broadcast Media Design & Technology Bsc (2.1)
 - Scientific understanding of VFX & 3D
+- Part of Brunel Rugby League
 
 #### Hyper Island, Stockholm (2016-2017)
 
