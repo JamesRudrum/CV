@@ -1,4 +1,9 @@
-## James Rudrum
+## James Rudrum          <br>                <a href="https://sourcerer.io/jamesrudrum"><img src="https://avatars0.githubusercontent.com/u/45013014?v=4" height="125px" width="125px" alt=""/></a>
+
+<a href="https://sourcerer.io/jamesrudrum"><img src="https://img.shields.io/badge/Ruby-179%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/jamesrudrum"><img src="https://img.shields.io/badge/JavaScript-56%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/jamesrudrum"><img src="https://img.shields.io/badge/CSS-56%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/jamesrudrum"><img src="https://img.shields.io/badge/SQL-50%20commits-orange.svg" alt=""></a>
 
 I'm a former 3D artist who read engineering at university and has learnt to code at Makers Academy. I've worked on films and installations during my time as a 3D artist and enjoyed my time doing both, however I now I want to use my interpersonal and problem solving skills gained during my education and previous experience to work for an organisation where I can make a meaningful contribution. I have wanted to work with tech, software and code since working at the art and technology creative studio [Field](www.field.io). At Field I worked with talented artists and creatives who used VEX and Python to create scripts or node networks for Houdini. This led me down the path of looking into how code,tech, data and animation can be combined to create beautiful pieces or data paintings, similar to the work created to [Refik Anadol](http://refikanadol.com). I beleive that my time spent at Makers Academy will help me combine the art, engineering and programming worlds of my life combine.
 
@@ -86,6 +91,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Email**   
 *james.rudrum@hyperisland.se*  
 **Sourcerer**  
-**  
+*https://sourcerer.io/jamesrudrum*  
 **Design Personal Website**  
 *[_jr3d_](jr3d.co.uk)*
