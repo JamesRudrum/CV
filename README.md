@@ -93,4 +93,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Sourcerer**  
 *https://sourcerer.io/jamesrudrum*  
 **Design Personal Website**  
-*[_jr3d_](jr3d.co.uk)*
+*www.jr3d.co.uk*
