@@ -5,11 +5,11 @@
 <a href="https://sourcerer.io/jamesrudrum"><img src="https://img.shields.io/badge/CSS-56%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/jamesrudrum"><img src="https://img.shields.io/badge/SQL-50%20commits-orange.svg" alt=""></a>
 
-9 Coombe Corner
-Winchmore Hill, London
-N21 3PE
-07931840483
-james_rudrum@outlook.com
+9 Coombe Corner <br>
+Winchmore Hill, London <br>
+N21 3PE <br>
+07931840483 <br>
+james_rudrum@outlook.com <br>
 
 A former 3D artist who read engineering at university and has learnt to code at Makers Academy. I’m seeking a new challenge after working within technology and art sector and to build upon this knowledge and continue to learn within this sector, specifically development and applications. I want to use my interpersonal and problem solving skills gained during my education and previous experience to work for an organisation where I can make a meaningful contribution. I am keen to follow my dream within this new industry having finished the intensive 16 week full stack development course at Makers Academy. 
 
