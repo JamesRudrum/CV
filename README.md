@@ -5,7 +5,13 @@
 <a href="https://sourcerer.io/jamesrudrum"><img src="https://img.shields.io/badge/CSS-56%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/jamesrudrum"><img src="https://img.shields.io/badge/SQL-50%20commits-orange.svg" alt=""></a>
 
-I'm a former 3D artist who read engineering at university and has learnt to code at Makers Academy. I've worked on films and installations during my time as a 3D artist and enjoyed my time doing both, however I now I want to use my interpersonal and problem solving skills gained during my education and previous experience to work for an organisation where I can make a meaningful contribution. I have wanted to work with tech, software and code since working at the art and technology creative studio [Field](www.field.io). At Field I worked with talented artists and creatives who used VEX and Python to create scripts or node networks for Houdini. This led me down the path of looking into how code,tech, data and animation can be combined to create beautiful pieces or data paintings, similar to the work created to [Refik Anadol](http://refikanadol.com). I beleive that my time spent at Makers Academy will help me combine the art, engineering and programming worlds of my life combine.
+9 Coombe Corner
+Winchmore Hill, London
+N21 3PE
+07931840483
+james_rudrum@outlook.com
+
+A former 3D artist who read engineering at university and has learnt to code at Makers Academy. I’m seeking a new challenge after working within technology and art sector and to build upon this knowledge and continue to learn within this sector, specifically development and applications. I want to use my interpersonal and problem solving skills gained during my education and previous experience to work for an organisation where I can make a meaningful contribution. I am keen to follow my dream within this new industry having finished the intensive 16 week full stack development course at Makers Academy. 
 
 ## Skills
 
