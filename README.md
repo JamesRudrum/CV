@@ -1,10 +1,10 @@
 ## James Rudrum          <br>                <a href="https://sourcerer.io/jamesrudrum"><img src="https://avatars0.githubusercontent.com/u/45013014?v=4" height="125px" width="125px" alt=""/></a>
 
-###### 9 Coombe Corner, 
-###### Winchmore Hill,
-###### London, N21 3PE
-###### 07931840483 <br>
-james_rudrum@outlook.com <br><br><br>
+**9 Coombe Corner,** <br>
+**Winchmore Hill,**<br>
+**London, N21 3PE**<br>
+**07931840483** <br>
+**james_rudrum@outlook.com**<br><br>
 
 [Profile](#profile) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [Contact](#contact)
 
