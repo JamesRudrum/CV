@@ -1,21 +1,21 @@
 ## James Rudrum          <br>                <a href="https://sourcerer.io/jamesrudrum"><img src="https://avatars0.githubusercontent.com/u/45013014?v=4" height="125px" width="125px" alt=""/></a>
 
-9 Coombe Corner <br>
-Winchmore Hill, London <br>
-N21 3PE <br>
-07931840483 <br>
-james_rudrum@outlook.com <br>
+###### 9 Coombe Corner, Winchmore Hill, London, N21 3PE
+###### 07931840483 <br>
+james_rudrum@outlook.com <br><br><br>
+
+[Profile](#profile) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [Contact](#contact)
 
 <a href="https://sourcerer.io/jamesrudrum"><img src="https://img.shields.io/badge/Ruby-179%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/jamesrudrum"><img src="https://img.shields.io/badge/JavaScript-56%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/jamesrudrum"><img src="https://img.shields.io/badge/CSS-56%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/jamesrudrum"><img src="https://img.shields.io/badge/SQL-50%20commits-orange.svg" alt=""></a>
 
-## Profile
+## Profile <a name="profile"></a>
 
 I am a former 3D artist who read engineering at university and has learnt to code at Makers Academy. I’m seeking a new challenge after working within technology and art sector and to build upon this knowledge and continue to learn within this sector, specifically development and applications. I want to use my interpersonal and problem solving skills gained during my education and previous experience to work for an organisation where I can make a meaningful contribution. I am keen to follow my dream within this new industry having finished the intensive 16 week full stack development course at Makers Academy.
 
-## Projects
+## Projects <a name="projects"></a>
 
 | Project          | Description           | Timeframe  | Technology
 | :-------------:  |:-------------        |:-----:     | :----------:
@@ -25,7 +25,7 @@ I am a former 3D artist who read engineering at university and has learnt to cod
 | [Instagram Clone](https://github.com/JamesRudrum/Instagram-Clone) | A replica of Instagram as a solo project.| 2 days | Ruby on Rails, HTML, CSS
 |[MakersBnB](https://github.com/ebk45/MakersBnB)|A group project to createa replica of AirBnB.|1 week| JS, Node.js, HTML, CSS, Jest, Cypress
 
-## Skills
+## Skills <a name="skills"></a>
 
 #### Project Management
 
@@ -43,7 +43,7 @@ I am a former 3D artist who read engineering at university and has learnt to cod
 
 - I believe that all the skills, knowledge and experiences I have acquired are due to my consistent effort of being on time and striving to do my best. I not only believe that this is the best way to respect myself but also to respect my colleagues and those who I am in contact with. This belief and mindset is what has ensured I have graduated univerity, experienced a different culture and country in Sweden, worked on Blockbuster films and now (hopefully) moved into software development, all of which I am proud of and grateful to have achieved. 
 
-## Education
+## Education <a name="education"></a>
 
 #### Makers Academy (November 2019 to March 2019)
 
@@ -114,7 +114,7 @@ Object Oriented Design (OOP) best practices, Test Driven Development (TDD), writ
 - Motorsport Engineering
 - Used Matlab for multiple projects
 
-## Experience
+## Experience <a name="experience"></a>
 
 **Freelance 3D Designer, London** (July 2016 - November 2018)  
 *Frelance 3D Designer*  
@@ -125,7 +125,7 @@ Object Oriented Design (OOP) best practices, Test Driven Development (TDD), writ
 **B-Reel, Stockholm** (March 2017 - June 2017)  
 *Intern*  
 
-## Hobbies & Interests   
+## Hobbies & Interests <a name="hobbies"></a>
 
 **Football**  
 *Arsenal season ticket holder*  
@@ -135,7 +135,7 @@ Object Oriented Design (OOP) best practices, Test Driven Development (TDD), writ
 **Documentaries**  
 *Louis Theroux fan*
 
-## Contact
+## Contact <a name="contact"></a>
 
 **Email**   
 *james_rudrum@outlook.com*  
