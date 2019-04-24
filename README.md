@@ -138,7 +138,7 @@ Object Oriented Design (OOP) best practices, Test Driven Development (TDD), writ
 ## Contact
 
 **Email**   
-*james.rudrum@hyperisland.se*  
+*james_rudrum@outlook.com*  
 **Sourcerer**  
 *https://sourcerer.io/jamesrudrum*  
 **Design Personal Website**  
