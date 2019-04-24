@@ -22,7 +22,8 @@ I am a former 3D artist who read engineering at university and has learnt to cod
 | [Hoot!](https://github.com/wise-social2/Hoot-App)         | Final group project of Makers Academy. An android app that links volunteers to less mobile elderly people in their community with similar interests       | 2 weeks      | Java, Android Studio
 | [Acebook](https://github.com/teamnameundefined/acebook-team-name-undefined)         | Group project. A replica of Facebook that is linked to a database and can store accounts, uses the gem devise to handle log-in/log-out. Allows the user to post thoughts and pictures, stored in albums on personal profiles.              |   2 weeks      | Ruby on Rails, HTML, CSS 
 | [Chitter](https://github.com/JamesRudrum/chitter-challenge)    | A replica of Twitter, using sessions to keep a username stored while posting sentences.             |    2 days      |Ruby, HTML, CSS, Sinatra
-| [Instagram Clone](https://github.com/JamesRudrum/Instagram-Clone) | A replica of Instagram as a solo project along with the above-mentioned Acebook group project.| 2 days | Ruby on Rails, HTML, CSS
+| [Instagram Clone](https://github.com/JamesRudrum/Instagram-Clone) | A replica of Instagram as a solo project.| 2 days | Ruby on Rails, HTML, CSS
+|[MakersBnB](https://github.com/ebk45/MakersBnB)|A group project to createa replica of AirBnB.|1 week| JS, Node.js, HTML, CSS, Jest, Cypress
 
 ## Skills
 
@@ -116,11 +117,11 @@ Object Oriented Design (OOP) best practices, Test Driven Development (TDD), writ
 ## Experience
 
 **Freelance 3D Designer, London** (July 2016 - November 2018)  
-*Frelance 3D Designer*
+*Frelance 3D Designer*  
 **Field, London** (January 2018 - July 2018)   
 *Junior*  
 **Territory, London** (August 2017 - December 2017 )    
-*Junior Designer*
+*Junior Designer*  
 **B-Reel, Stockholm** (March 2017 - June 2017)  
 *Intern*  
 
