@@ -1,4 +1,4 @@
-## James Rudrum          <br>                <a href="https://sourcerer.io/jamesrudrum"><img src="https://avatars0.githubusercontent.com/u/45013014?v=4" height="125px" width="125px" alt=""/></a>
+# James Rudrum          <br>                <a href="https://sourcerer.io/jamesrudrum"><img src="https://avatars0.githubusercontent.com/u/45013014?v=4" height="250px" width="250px" alt=""/></a>
 
 **9 Coombe Corner,** <br>
 **Winchmore Hill,**<br>
